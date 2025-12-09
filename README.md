@@ -8,3 +8,5 @@ Before reading those scripts, you must know some things:
   
 🔶 RGP - Random Generated Path
   ↳ Script testing, it does not have good coding practice.
+
+Made by: Napoleandro
